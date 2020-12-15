@@ -1,12 +1,12 @@
 # Arabic-Sentiment-Analysis-Datasets
 
-This is a repository of Arabic automobile and real estate sentiment analysis datasets
+This is a repository of Arabic automobile and real estate sentiment analysis datasets.
 
 The automobile dataset contained around 6,585 comments and it focused on almost 29 automobile topics.
 
 The real estate dataset contained around 6,434 comments and it focused on almost 85 real estate topics.
 
-Both datasets were divided into three sentimental categories (positive, negative and mixed), 
+Both datasets were divided into three sentimental categories (positive, negative and mixed).
 
 If you use any of these datasets in your research, could you please cite our paper:
 
